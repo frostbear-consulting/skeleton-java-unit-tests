@@ -8,9 +8,10 @@
         <option value="activateOnBatch" />
         <option value="organizeImports" />
         <option value="reformat" />
-        <option value="methodMayBeStatic" />
         <option value="unqualifiedFieldAccess" />
         <option value="unqualifiedMethodAccess" />
+        <option value="unqualifiedStaticMemberAccess" />
+        <option value="missingOverrideAnnotation" />
       </set>
     </option>
     <option name="configurationPath" value="" />
